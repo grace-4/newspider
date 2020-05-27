@@ -1,0 +1,174 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #000000;
+  }
+  
+  /*--- navigation bar ---*/
+  
+  .navbar {
+    background:#231f20;
+  }
+  
+  .nav-link,
+  .navbar-brand {
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .nav-link {
+    margin-right: 1em !important;
+  }
+  
+  .nav-link:hover {
+    color: #2ed88b;
+  }
+  
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+  .header {
+    background-image: url('images/another banner.jpg');
+    background-size: cover;
+    background-position: left;
+    position: relative;
+  }
+  .overlay {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.6);
+  }
+  .description {
+    left: 50%;
+    position: absolute;
+    top: 45%;
+    transform: translate(-50%, -55%);
+    text-align: center;
+  }
+  
+  .description h1 {
+    color: #2ed88b;
+    font-size:200 px; 
+    font-family: 'Sen', sans-serif;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  .description p {
+    color: #fff;
+    font-size: 1.3rem;
+    line-height: 1.5;
+  }
+  .description button {
+    border:1px solid #2ed88b;
+    background:#2ed88b;
+    border-radius: 0;
+    color:#fff;
+  }
+  
+  .description button:hover {
+    border:1px solid #fff;
+    background:#fff;
+    color:#2ed88b;
+  }
+  .features {
+    margin: 4em auto;
+    padding: 1em;
+    position: relative;
+  }
+  
+  .feature-title {
+    color: #ffffff;
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+  
+  .features img {
+    -webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+    margin-bottom: 16px;
+  }
+  .features .form-control,
+  .features input {
+      border-radius: 0;
+  }
+  
+  .features .btn {
+    background-color: #2ed88b;
+    border: 1px solid #2ed88b;
+    color: #ffffff;
+    margin-top: 20px;
+  }
+  
+  .features .btn:hover {
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    color: #2ed88b;
+  }
+  p {
+    color:#ffffff;
+    font-family: 'Sen', sans-serif;
+    font-family: 'Lato', sans-serif;  
+  }
+  h3 {
+    font-family: 'Sen', sans-serif;
+    font-family: 'Lato', sans-serif;  
+  }
+  .page-footer {
+    background-color: #101010;
+    color: #FFFFFF;
+    padding: 60px 0 30px;
+    font-family: 'Sen', sans-serif;
+    font-family: 'Lato', sans-serif;  
+  }
+  
+  .footer-copyright {
+    color: #2ed88b;
+    padding: 40px 0;
+    font-family: 'Sen', sans-serif;
+    font-family: 'Lato', sans-serif; 
+  }
+  h6 {
+    color: #2ed88b;
+  }
+
+  @media (max-width: 575.98px) {
+
+    .description {
+      left: 0;
+      padding: 0 15px;
+      position: absolute;
+      top: 10%;
+      transform: none;
+      text-align: center;
+    }
+    
+    .description h1 {
+      font-size: 2em;
+    }
+    
+    .description p {
+      font-size: 1.2rem;
+    }
+    
+    .features {
+      margin: 0;
+    }
+  
+  }
+  form {
+    border: 1px solid #000000;
+  }
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(255, 255, 255);
+    box-sizing: border-box;
+  }
