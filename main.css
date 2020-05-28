@@ -224,7 +224,7 @@ body {
 }
 .login-form-field::placeholder {
   color: #2ed88b;
-  width: 70%;
+  width: 120%;
 }
 .login-form-field {
   border: none;
