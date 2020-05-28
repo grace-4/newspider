@@ -177,7 +177,6 @@ html {
 }
 body {
   height: 100%;
-  width: 60%;
   margin: 0;
   font-family: 'Sen', sans-serif;
   font-family: 'Lato', sans-serif;
@@ -187,7 +186,7 @@ body {
   background-color: #101010;
 }
 #main-holder {
-  width: 50%;
+  width: 70%;
   height: 70%;
   display: grid;
   justify-items: center;
