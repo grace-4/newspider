@@ -216,3 +216,9 @@ body {
 #error-msg-second-line {
   display: block;
 }
+#login-form {
+  align-self: flex-start;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
