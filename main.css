@@ -222,3 +222,6 @@ body {
   justify-items: center;
   align-items: center;
 }
+.login-form-field::placeholder {
+  color: #8206ff;
+}
