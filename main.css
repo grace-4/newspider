@@ -233,3 +233,14 @@ body {
   outline: none;
   padding: 0px 0px 5px 5px;
 }
+#login-form-submit {
+  width: 100%;
+  padding: 7px;
+  border: none;
+  border-radius: 5px;
+  color: #532ed8;
+  font-weight: bold;
+  background-color: aqua;
+  cursor: pointer;
+  outline: none;
+}
