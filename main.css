@@ -213,3 +213,6 @@ body {
   background-color: #2ed88b;
   opacity: 0;
 }
+#error-msg-second-line {
+  display: block;
+}
