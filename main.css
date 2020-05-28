@@ -265,8 +265,8 @@ input[type=button], input[type=submit], input[type=reset]  {
   display: inline-block;
   text-transform: uppercase;
   font-size: 13px;
-  -webkit-box-shadow: 0 10px 30px 0 rgba(46, 216, 139, 0.808);
-  box-shadow: 0 10px 30px 0 rgba(46, 216, 139, 0.808);
+  -webkit-box-shadow: 0 10px 30px 0 rgba(255, 255, 255, 0.247);
+  box-shadow: 0 10px 30px 0 rgba(255, 255, 255, 0.247);
   -webkit-border-radius: 5px 5px 5px 5px;
   border-radius: 5px 5px 5px 5px;
   margin: 5px 20px 40px 20px;
