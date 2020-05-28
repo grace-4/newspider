@@ -225,3 +225,11 @@ body {
 .login-form-field::placeholder {
   color: #2ed88b;
 }
+.login-form-field {
+  border: none;
+  border-bottom: 1px solid #101010;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  outline: none;
+  padding: 0px 0px 5px 5px;
+}
