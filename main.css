@@ -162,7 +162,7 @@ body {
   
   }
   form {
-    border: 1px solid #000000;
+    border: 0px;
   }
   input[type=text], input[type=password] {
     width: 100%;
