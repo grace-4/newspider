@@ -67,8 +67,14 @@ body {
     color: white;
     padding: 10px 30px;
     text-align: center;
+    text-decoration: none;
+    display: inline-block;
   }
-
+  .button:hover {
+    background-color: #f6f6f6;
+    color: #2ed88b;
+    text-decoration: none;
+  }
 
   
   .features {
