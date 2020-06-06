@@ -61,18 +61,16 @@ body {
     font-size: 1.3rem;
     line-height: 1.5;
   }
-  .description button {
-    border:1px solid #2ed88b;
-    background:#2ed88b;
-    border-radius: 0;
-    color:#fff;
+  .button{
+    background-color: #2ed88b;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
   }
+
+
   
-  .description button:hover {
-    border:1px solid #fff;
-    background:#fff;
-    color:#2ed88b;
-  }
   .features {
     margin: 4em auto;
     padding: 1em;
