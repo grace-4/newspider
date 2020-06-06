@@ -183,8 +183,13 @@ body {
     font-family: 'Lato', sans-serif; 
     height: 100vh;
     background-image: url('images/crystalmaiden.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
   }
   
+
+
   a {
     color: #2ed88b;
     display:inline-block;
