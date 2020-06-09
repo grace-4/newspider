@@ -456,7 +456,8 @@ input[type=text]:placeholder {
 }
 
 .fa:hover {
-    opacity: 0.7;
+background: #ffffff;
+color: #2ed88b;
 }
 
 .fa-facebook {
