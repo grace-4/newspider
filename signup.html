@@ -52,7 +52,7 @@
             <input type="text" id="confirm password" class="fadeIn third" name="confirm password" placeholder="Confirm Password">
             <p>Re-enter your password</p>
 
-            <div class="custom-select" style="width:200px;">
+            <div class="custom-select third">
               <select id="country" name="country">
                 <option value="Afganistan">Afghanistan</option>
                 <option value="Albania">Albania</option>
@@ -359,7 +359,7 @@
                   });
               }
               function closeAllSelect(elmnt) {
-                /*a function that will close all select boxes in the document,
+                /*close all select boxes in the document,
                 except the current select box:*/
                 var x, y, i, xl, yl, arrNo = [];
                 x = document.getElementsByClassName("select-items");
@@ -379,15 +379,14 @@
                   }
                 }
               }
-              /*if the user clicks anywhere outside the select box,
-              then close all select boxes:*/
+              /*click outside box and it closes it*/
               document.addEventListener("click", closeAllSelect);
               </script>
 
+
+
             <a href="#" class="button">Create Account</a>
           </form>
-
-
           
       <!-- Social Media Icon Code -->
       <a href="#" class="fa fa-facebook"></a>
