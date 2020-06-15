@@ -482,4 +482,5 @@ p {
 /*countries css*/
 .form-group {
   width: 90%;
+  position: center;
 }
