@@ -187,6 +187,9 @@ html {
   font-family: 'Barlow Condensed', sans-serif;
   text-align: left;
 }
+i {
+  font-weight: italic;
+}
 
 
 /*1st half of login css*/
