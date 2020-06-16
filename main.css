@@ -51,7 +51,7 @@ body {
   
   .description h1 {
     color: #2ed88b;
-    font-size:200 px; 
+    font-size: 1000 px; 
     font-family: 'Barlow Condensed', sans-serif;
   }
   
@@ -182,7 +182,7 @@ html {
 
 .info p {
   color: #ffffff;
-  font-size: 15.5px;
+  font-size: 18px;
   font-weight: 300;
   font-family: 'Barlow Condensed', sans-serif;
   text-align: left;
