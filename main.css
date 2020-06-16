@@ -178,9 +178,11 @@ body {
     border: 1px solid rgb(255, 255, 255);
     box-sizing: border-box;
   }
+/*Information Css*/
 
-  /*Information css*/
-
+html {
+  background-color: #231f20;
+}
 
 /*1st half of login css*/
 
