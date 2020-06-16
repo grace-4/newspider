@@ -88,18 +88,7 @@ body {
       border-radius: 0;
   }
   
-  .features .btn {
-    background-color: #2ed88b;
-    border: 1px solid #2ed88b;
-    color: #ffffff;
-    margin-top: 20px;
-  }
-  
-  .features .btn:hover {
-    background-color: #ffffff;
-    border: 1px solid #ffffff;
-    color: #2ed88b;
-  }
+
   p {
     color:#ffffff;
     font-family: 'Barlow Condensed', sans-serif;
@@ -185,7 +174,10 @@ h1 {
 button {
   background-color: #2ed88b;
 }
-
+.btn {
+  background-color: #2ed88b;
+  color: #dce8f1;
+}
 
 
 
