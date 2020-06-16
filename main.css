@@ -60,20 +60,7 @@ body {
     font-size: 1.3rem;
     line-height: 1.5;
   }
-  .button{
-    background-color: #2ed88b;
-    border: none;
-    color: white;
-    padding: 10px 30px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-  }
-  .button:hover {
-    background-color: #f6f6f6;
-    color: #2ed88b;
-    text-decoration: none;
-  }
+  
 
   
   .features {
@@ -174,6 +161,7 @@ body {
     border: 1px solid rgb(255, 255, 255);
     box-sizing: border-box;
   }
+
 /*Information Css*/
 
 html {
@@ -193,6 +181,9 @@ i {
 h1 {
   color: #cccccc;
   text-align: center;
+}
+button {
+  background-color: #2ed88b;
 }
 
 
