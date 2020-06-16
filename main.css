@@ -141,6 +141,7 @@ body {
     color: #2ed88b;
   }
 
+  
   @media (max-width: 575.98px) {
 
     .description {
@@ -165,6 +166,7 @@ body {
     }
   
   }
+  
   form {
     border: 0px;
   }
