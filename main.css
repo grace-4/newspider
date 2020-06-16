@@ -179,10 +179,11 @@ body {
     box-sizing: border-box;
   }
 
+  /*Information css*/
+
+
 /*1st half of login css*/
-  html {
-    background-color: #2ed88b;
-  }
+
   
   body {
     font-family: 'Sen', sans-serif;
