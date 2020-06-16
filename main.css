@@ -183,6 +183,12 @@ body {
 html {
   background-color: #231f20;
 }
+.general-info {
+  font-size: 16;
+  font-family: 'Sen', sans-serif;
+  font-family: 'Lato', sans-serif; 
+  color: #ffffff;
+}
 
 /*1st half of login css*/
 
