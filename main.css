@@ -190,9 +190,12 @@ html {
 i {
   font-weight: italic;
 }
-.join-the-battle button {
-  background-color: #2ed88b;
+h1 {
+  color: #cccccc;
+  text-align: center;
 }
+
+
 
 
 /*1st half of login css*/
