@@ -108,18 +108,7 @@ body {
     padding: 40px 0;
     font-family: 'Barlow Condensed', sans-serif;
   }
-  h5 {
-    font-size: 25px;
-    font-weight: 300;
-    color: #cccccc;
-    margin: 40px 8px 10px 8px;
-    text-align: right;
-  }
-
-  h6 {
-    color: #2ed88b;
-  }
-
+  
   
   @media (max-width: 575.98px) {
 
@@ -185,6 +174,17 @@ h1 :hover {
 a :hover {
   color: #cccccc;
 }
+h5 {
+  font-size: 25px;
+  font-weight: 300;
+  color: #cccccc;
+  margin: 40px 8px 10px 0px;
+}
+
+h6 {
+  color: #2ed88b;
+}
+
 
 
 
