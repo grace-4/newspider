@@ -88,7 +88,6 @@ body {
       border-radius: 0;
   }
   
-
   p {
     color:#ffffff;
     font-family: 'Barlow Condensed', sans-serif;
@@ -176,7 +175,12 @@ button {
 }
 .btn {
   background-color: #2ed88b;
-  color: #dce8f1;
+  font: #dce8f1;
+}
+.btn:hover {
+  background-color: #dce8f1;
+  font: #2ed88b;
+  font-style: underline;
 }
 
 
