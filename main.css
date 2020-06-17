@@ -166,22 +166,18 @@ html {
 i {
   font-weight: italic;
 }
-h1 {
+h1{
+  text-align: center;
+  color: #2ed88b;
+}
+h1 :hover {
   color: #cccccc;
   text-align: center;
 }
-button {
-  background-color: #2ed88b;
+a :hover {
+  color: #cccccc;
 }
-.btn {
-  background-color: #2ed88b;
-  font: #dce8f1;
-}
-.btn:hover {
-  background-color: #dce8f1;
-  font: #2ed88b;
-  font-style: underline;
-}
+
 
 
 
